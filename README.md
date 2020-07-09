@@ -10,7 +10,7 @@ Note: `Before running your tests and after running migrations, be sure to run ra
 ```
 #### Students
 
-* A student must have name
+* A student must have a name
 * A student can attend many clinics
 
 #### Clinics
